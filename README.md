@@ -19,7 +19,7 @@
 
 
 # gif walkthroughs
-[Alt text](assets/img/password-generator.gif)
+![Alt text](assets/img/password-generator.gif)
 
 
 
