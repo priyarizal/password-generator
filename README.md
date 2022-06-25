@@ -1,25 +1,39 @@
 # password-generator
 
+***The README must contain at minimum
+ a description of what the project is, 
+ technologies used, 
+ screenshots of essential code, 
+ and gif walkthroughs of the application functioning. 
+ 
+# Description
+    This app was a UCB boot camp homework assignment. It generated a random password based on 4 criterias. If it does not meet the creteria, then it tells the user they must select one to try again. It requires the password be no less than 8 and no more than 120 characters. 
+
+# technologies used 
+    HTML, CSS, JS. 
+
+# screenshots
+![Alt text](assets/img/2.png)
+ ![Alt text](assets/img/1.png)
+ ![Alt text](assets/img/3.png)
+
+
+# gif walkthroughs
+[Alt text](assets/img/password-generator.gif)
+
+
+
+# Contributors
+UCB bootcamp
+Classmates on Discord Channel 
+Divesh Rizal (my brother)
+
+# license 
+MIT
 
 
 
 
 
-Description
-    This
 
-GIVEN I need a new, secure password
-WHEN I click the button to generate a password
-THEN I am presented with a series of prompts for password criteria
-WHEN prompted for password criteria
-THEN I select which criteria to include in the password
-WHEN prompted for the length of the password
-THEN I choose a length of at least 8 characters and no more than 128 characters
-WHEN asked for character types to include in the password
-THEN I confirm whether or not to include lowercase, uppercase, numeric, and/or special characters
-WHEN I answer each prompt
-THEN my input should be validated and at least one character type should be selected
-WHEN all prompts are answered
-THEN a password is generated that matches the selected criteria
-WHEN the password is generated
-THEN the password is either displayed in an alert or written to the page
+
